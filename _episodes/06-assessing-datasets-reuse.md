@@ -44,7 +44,7 @@ Can you find information about what is in each data column?  What are the units?
 
 **Dataset: AE1910 CTD Profiles**: [https://www.bco-dmo.org/dataset/774958](https://www.bco-dmo.org/dataset/774958)
 
-![AE1910_CTD_page1](../fig/AE1910_CTD_page1.png)
+<img src="../fig/AE1910_CTD_page1.png" alt="page ae1910 CTD" style="width:60%;" />
 
 > ## Exercise: Finding units
 >
@@ -59,11 +59,11 @@ Can you find information about what is in each data column?  What are the units?
 > > ## Solution
 > > In the section called** "Parameters" **has this information.
 > >
-> > ![exercise vertical cols](../fig/AE1910_CTD_vertical_solution.png)
+> > <img src="../fig/AE1910_CTD_vertical_solution.png" alt="exercise vertical cols" style="width:60%;" />
 > >
 > > You can also see this information by viewing the data table with the button: <img src = "../fig/view_table.png">  However since you don't have descriptions of the columns here, it is best to get the information from the "Parameters" section as shown above.
 > >
-> > ![exercise vertical cols2](../fig/vertical_solution2.png)
+> > <img src="../fig/vertical_solution2.png" alt="exercise vertical cols2" style="width:60%;" />
 > >
 > > {: .output}
 > > {: .solution}
@@ -90,7 +90,7 @@ Can you find information about what is in each data column?  What are the units?
 > > ## Solution
 > > In the section called `Acquisition description` it says these data are from the up cast (not the down cast).  In the section called `Processing Description` it says these data were processed and binned to 1-meter intervals.  This means that when we look at the data table we should see a row of data per meter.
 > >
-> > ![methods](../fig/methods_exercise.png)
+> > <img src="../fig/methods_exercise.png" alt="methods" style="width:60%;" />
 > >
 > > {: .output}
 > > {: .solution}
