@@ -1,11 +1,11 @@
 ---
-title: "Download a dataset, write provenance during analysis"
+title: "Practice provenance"
 teaching: 5
 exercises: 0
 questions:
 - ""
 objectives:
-- "Practice provenance capture."
+- "Practice provenance capture. Download a dataset, write provenance during analysis"
 keypoints:
 - "some keypoint"
 ---
