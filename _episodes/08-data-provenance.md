@@ -40,20 +40,3 @@ Have you ever come back to plots or data you created and have no idea how you ma
 > * exported plot in Sheet 2 to "BATS_niskin_2004_to_2008/hourly/BATS_profiles.png"
 
 Having clear records about how a plot was produced with the table you used to produce it is very important for reports and journal publications.  It allows your results to be reproducible, transparent, and fascilitate peer review. It also makes writing your publication easier since you already have the figure captions written!
-
-## Anyone can create metadata
-
-You don't need any special skills to write metadata and documentation to keep track of your provenance.  
-
-However, there are specifications and tools you can learn that have huge benefits.   See more about metadata specifications like [PROV](https://www.w3.org/2001/sw/wiki/PROV).
-
-**Version control** (e.g. git/github) is a great way to keep track of all the changes in your files.  It does have a learning curve but will save you time and frustration in the long run after you learn it. 
-
-I'm sure everyone has experienced this frustration:
-
-> ![version_control_meme](../fig/ew-versions.png)
-> from: Wit and wisdom from Jorge Cham (http://phdcomics.com/)
-
-Git will keeps track of all the differences in your files over time, no need to keep a million copies!  You can make notes for each version of your files too.
-
-> Learn more about [Version Control and Git in a Software Carpentry](https://swcarpentry.github.io/git-novice/).
