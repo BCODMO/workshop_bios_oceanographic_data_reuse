@@ -1,5 +1,5 @@
 ---
-title: "Capturing Provenance"
+title: "What is Data Provenance"
 teaching: 25
 exercises: 10
 questions:
