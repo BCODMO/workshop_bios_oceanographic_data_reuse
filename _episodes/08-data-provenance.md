@@ -1,7 +1,7 @@
 ---
 title: "What is Data Provenance"
-teaching: 25
-exercises: 10
+teaching: 20
+exercises: 0
 questions:
 - "What should I be recording while I do my analyses?"
 objectives:
