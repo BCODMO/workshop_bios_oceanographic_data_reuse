@@ -23,9 +23,9 @@ keypoints:
 > * Download a dataset
 > * Make a plot of parameters of choice. 
 > * Write down the provenance of your analysis
->
+
 > >  ## Discussion
 > >  Make a new sheet for the data you change during your analysis.
 > >  Invert the depth axis since depth of 0 is the surface.
 > >
-> >  {: .challenge}
+> {: .challenge}
