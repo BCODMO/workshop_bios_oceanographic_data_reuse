@@ -23,7 +23,7 @@ In the previous lesson we touched on capturing provenanec and metadata while you
 > - Origin, Source.
 > - The history of ownership of a valued object or work of art or literature
 
-Provenance was orignially a term applied to works of fine art as a record of its history. It came to encompas not just chain of custody, but a full record of what happened to it and where it traveled. The term is now applied to data as well, and the meaning is the same.  Where did a dataset come from?  Who created it? What processing was done to it? Where was it stored?
+Provenance was orignially a term applied to works of fine art as a record of their history. It came to encompas not just chain of custody, but a full record of what happened to it and where it traveled. The term is now applied to data as well, and the meaning is the same.  Where did a dataset come from?  Who created it? What processing was done to it? Where was it stored?
 
 
 <figure>
