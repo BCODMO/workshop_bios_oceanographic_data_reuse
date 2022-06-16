@@ -64,7 +64,7 @@ Can you find information about what is in each data column?  What are the units?
 > > You can also see this information by viewing the data table with the button: <img src = "../fig/view_table.png">  However since you don't have descriptions of the columns here, it is best to get the information from the "Parameters" section as shown above.
 > >
 > > <img src="../fig/vertical_solution2.png" alt="exercise vertical cols2" style="width:60%;" />
-> > {: .solution}
+> {: .solution}
 > > {: .challenge}
 
 
@@ -90,6 +90,6 @@ Can you find information about what is in each data column?  What are the units?
 > >
 > > <img src="../fig/methods_exercise.png" alt="methods" style="width:60%;" />
 > >
-> > {: .solution}
+>  {: .solution}
 > > {: .challenge}
 
