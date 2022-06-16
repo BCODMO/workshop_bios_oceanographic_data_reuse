@@ -1,13 +1,13 @@
 ---
-title: "Practice provenance"
+title: "Provenance Walkthrough"
 teaching: 5
 exercises: 0
 questions:
 - ""
 objectives:
-- "Practice provenance capture. Download a dataset, write provenance during analysis"
+- "Provenance capture walkthrough. Download a dataset, write provenance during analysis"
 keypoints:
-- "some keypoint"
+- "Provenance should be captured while you work with your data."
 ---
 
 > ## Exercise: Download a dataset, write provenance during analysis.
