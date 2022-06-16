@@ -84,7 +84,7 @@ Can you find information about what is in each data column?  What are the units?
 > What does the metadata say? Raw or processed data?
 >
 > > ## Solution
-> > In the section called `Acquisition description` it says these data are from the up cast (not the down cast).  In the section called `Processing Description` it says these data were processed and binned to 1-meter intervals.  This means that when we look at the data table we should see a row of data per meter.
+> > In the section called `Acquisition description` it says these data are from the up cast (not the down cast).  In the section called `Processing Description` it says these data were processed and binned to 1-meter intervals.  This means that when we look at the data table we should see a row of data per atmosphere of pressure.
 > >
 > > <img src="../fig/methods_exercise.png" alt="methods" style="width:80%;" />
 >  {: .solution}

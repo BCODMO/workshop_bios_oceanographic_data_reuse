@@ -15,7 +15,14 @@ keypoints:
 - "Datasets can be subsetted for easier use"
 
 ---
-### What is ERDDAP?
+
+## Where are we in the data life cycle?
+
+
+<img src="../fig/datalifecycle.png" alt="datalifecycle" style="width:40%;" />
+
+
+## What is ERDDAP?
 
 When scientists make their data available online for people to re-use  it, there can often still be barriers that stand in the way of easily  doing so. Reusing data from another source is difficult:
 
