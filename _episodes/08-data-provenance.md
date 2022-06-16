@@ -12,7 +12,7 @@ keypoints:
 
 ## Where are we?
 
-In the previous lesson we touched on capturing provenanec and metadata while you clean your own dataset.  But now we are talking about what you can do during the Analysis phase of a data life cycle to implement FAIR practices.
+In the previous lesson we touched on capturing provenance and metadata while you clean your own dataset.  But now we are talking about what you can do during the analysis phase of a data life cycle to implement FAIR practices.
 
 <img src="../fig/datalifecycle-analysis.png" alt="datalifecycle-analysis" style="width:40%;" />
 
@@ -23,11 +23,11 @@ In the previous lesson we touched on capturing provenanec and metadata while you
 > - Origin, Source.
 > - The history of ownership of a valued object or work of art or literature
 
-Provenance was orignially a term applied to works of fine art as a record of their history. It came to encompas not just chain of custody, but a full record of what happened to it and where it traveled. The term is now applied to data as well, and the meaning is the same.  Where did a dataset come from?  Who created it? What processing was done to it? Where was it stored?
-
+Provenance was originally a term applied to works of fine art as a record of their history. It came to encompass not just chain of custody, but a full record of what happened to it and where it traveled. The term is now applied to data as well, and the meaning is the same.  Where did a dataset come from?  Who created it? What processing was done to it? Where was it stored?
 
 <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Water_Lilies_%28Monet%2C_1919%29.JPG/1200px-Water_Lilies_%28Monet%2C_1919%29.JPG?20081207163727" alt="Monet painting" width="80%"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Water_Lilies_%28Monet%2C_1919%29.JPG/1200px-Water_Lilies_%28Monet%2C_1919%29.JPG?20081207163727" alt="Monet painting" width="60%"/>
+
 
         <figcaption>Water Lilies, Monet (1919), photo by Szilas in the Metropolitan Museum of Art (2008). <a href="https://commons.wikimedia.org/wiki/File:Water_Lilies_(Monet,_1919).JPG">Image source: Wikipedia</a></figcaption>
 </figure>
@@ -61,4 +61,4 @@ Have you ever come back to plots or data you created and have no idea how you ma
 > * exported Sheet 1 to "BATS_niskin_2004_to_2008/hourly/BATS_niskin_hourly.csv." 
 > * exported plot in Sheet 2 to "BATS_niskin_2004_to_2008/hourly/BATS_profiles.png"
 
-Having clear records about how a plot was produced with the table you used to produce it is very important for reports and journal publications.  It allows your results to be reproducible, transparent, and fascilitate peer review. It also makes writing your publication easier since you already have the figure captions written!
+Having clear records about how a plot was produced with the table you used to produce it is very important for reports and journal publications.  It allows your results to be reproducible, transparent, and facilitate peer review. It also makes writing your publication easier since you already have the figure captions written!

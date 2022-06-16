@@ -13,7 +13,6 @@ keypoints:
 - "Data can be downloaded in different file formats based in user needs"
 - "ERDDAP helps converting files to the needed format"
 - "Datasets can be subsetted for easier use"
-
 ---
 
 ## Where are we in the data life cycle?
@@ -44,7 +43,7 @@ BCO-DMO has its own ERDDAP server that is continuously being updated. We added E
 
 ## Downloading a Dataset
 
-Previously we covered some ways you can [access data from the ERDDAP server](../08_erddap_catalog_search/index.html), but you can also download a whole dataset from the Dataset Metadata Page itself. There are buttons to easily download data in many file formats. Dataset [AE1910 CTD Profiles](https://www.bco-dmo.org/dataset/774958) 
+You can access data from the ERDDAP server, but you can also download a whole dataset from the Dataset Metadata Page itself. There are buttons to easily download data in many file formats. Dataset [AE1910 CTD Profiles](https://www.bco-dmo.org/dataset/774958) 
 
 <img src="../fig/AE1910_CTD_badges.png" alt="AE1910_CTD bottle badges" style="width:70%;" />
 
@@ -63,7 +62,7 @@ keypoints:
 - "Constraints can be added to a dataset search"
 
 
-## Downloading Data
+## Subsetting Data
 
 For this example, we'll zoom in on the BATS CTD dataset that BCO-DMO is serving. The dataset landing page can be found here: [https://www.bco-dmo.org/dataset/3918](https://www.bco-dmo.org/dataset/3918)
 
@@ -71,13 +70,20 @@ This dataset has data from 1988 to 2016, so it is a very big dataset. Clicking o
 
 <img src="../fig/erddap-bats-dataview.png" alt="erddap-bats-bcodmo" style="width:80%;" />
 
-**Subsetting a dataset in ERDDAP**
 
-An easier way to download the data is to subset it. Which means taking a slice of the dataset that you are interested in particularly.
+
+An easier way to download the data is to **subset it.** Which means taking a slice of the dataset that you are interested in in particular.
 
 <img src="../fig/erddap-subsetdata.png" alt="erddap-subset" style="width:80%;" />
 
-<img src="../fig/erddap-subsetting.png" alt="erddap-subsetting" style="width:80%;" />
+The ERDDAP subset page has 2 important parts: 
+
+* Subsetting variables: Here you can set which variables you want to download.  
+* "Download" part. Here you can choose from many different formats to download the datasets (and is the true power of ERDDAP). We will download the dataset in .csvp = 1 line of variables. 
+
+<img src="../fig/erddap-overview.png" alt="erddap overview" style="width:80%;" />
+
+
 
 
 
