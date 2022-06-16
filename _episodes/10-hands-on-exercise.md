@@ -5,9 +5,9 @@ exercises: 45
 questions: 10
 - ""
 objectives:
-- "Practice provenance capture. Download a dataset, write provenance during analysis"
+- "Practice provenance capture. Download a dataset, write provenance during analysis."
 keypoints:
-- "some keypoint"
+- "Practice makes perfect."
 ---
 
 > ## Exercise: Download a dataset, write provenance during analysis.
