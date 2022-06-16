@@ -1,7 +1,7 @@
 ---
 title: "Assessing Datasets for Reuse"
-teaching: 10
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - How do you assess datasets to make sure they are ready for analyses?
 - How do you download the dataset you choose?
