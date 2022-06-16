@@ -18,8 +18,7 @@ keypoints:
 
 ## Where are we in the data life cycle?
 
-
-<img src="../fig/datalifecycle.png" alt="datalifecycle" style="width:40%;" />
+<img src="../fig/datalifecycle_reuse.png" alt="datalifecycle" style="width:40%;" />
 
 
 ## What is ERDDAP?
@@ -57,13 +56,11 @@ You can click the `CSV` button to download the data table in csv-format.  You ca
 
 
 
-
 - "Understand all the different factors for reusing online data with ERDDAP"
 keypoints:
 - "Searching an ERDDAP data catalog can be done using a web page"
 - "Data can be downloaded in different file formats"
 - "Constraints can be added to a dataset search"
-
 
 
 ## Downloading Data
