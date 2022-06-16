@@ -23,10 +23,9 @@ Spreadsheets are good for data entry, but in reality we tend to use spreadsheet 
 
 ### Why is data analysis in spreadsheets challenging?
 
-- Data analysis in spreadsheets usually requires a lot of manual work. If you want to change a parameter or run an analysis with a new dataset, you usually have to redo everything by hand. (We do
-  know that you can create macros, but see the next point.)
+- Data analysis in spreadsheets usually requires a lot of manual work. If you want to change a parameter or run an analysis with a new dataset, you usually have to redo everything by hand. 
   
-- It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs when you want to go back to your work or someone asks for details of your analysis. It can be very difficult, if not impossible, to replicate your steps (much less retrace anyone else's), particularly if your 
+- It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs when you want to go back to your work or someone asks for details of your analysis. It can be very difficult, if not impossible, to replicate your steps, particularly if your 
   stats or figures require you to do more complex calculation.
   
 - Generating tables for publications in a spreadsheet is not optimal - often, when formatting a data table for publication, we’re reporting key summary statistics in a way that is not really meant to
@@ -34,7 +33,7 @@ be read as data, and often involves special formatting (merging cells, creating 
 
 ### Using Spreadsheets for Data Entry and Cleaning
 
-However, there are circumstances where you might want to use a spreadsheet  program to produce “quick and dirty” calculations or figures, and data  cleaning will help you use some of these features. Data cleaning also puts your data in a better format prior to importation into a  statistical analysis program. We will show you how to use some features of  spreadsheet programs to check your data quality along the way and produce  preliminary summary statistics.
+However, there are circumstances where you might want to use a spreadsheet program to produce “quick and dirty” calculations or figures, and data  cleaning will help you use some of these features. Data cleaning also puts your data in a better format prior to importation into a  statistical analysis program. We will show you how to use some features of  spreadsheet programs to check your data quality along the way and produce  preliminary summary statistics.
 
 ### What this lesson will not teach you
 
@@ -42,7 +41,6 @@ However, there are circumstances where you might want to use a spreadsheet  prog
 - How to *write code* in spreadsheet programs
 
 If you're looking to do this, a good reference is [Head First Excel](https://www.amazon.com/Head-First-Excel-learners-spreadsheets/dp/0596807694/), published by O'Reilly.
-
 
 ## Background: What is a CTD?
 
