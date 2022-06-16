@@ -10,7 +10,10 @@ objectives:
 - "Downloading data with erddap"
 - "Downloading data using the dataset buttons"
 keypoints:
-- "Data can be downloaded in different file formats"
+- "Data can be downloaded in different file formats based in user needs"
+- "ERDDAP helps converting files to the needed format"
+- "Datasets can be subsetted for easier use"
+
 ---
 ### What is ERDDAP?
 
@@ -22,7 +25,7 @@ When scientists make their data available online for people to re-use  it, there
 
 **This is where ERDDAP comes in.** It gives data  providers the ability to, in a consistent way, download  subsets of  gridded and tabular scientific datasets in common file formats and make  graphs and maps.
 
-<img src="../fig/erddap.png" alt="erddap" style="zoom:20%;" />
+<img src="../fig/erddap.png" alt="erddap" style="width:60%;" />
 
 
 
@@ -30,18 +33,20 @@ There is no “1 ERDDAP server”, instead organisations and repositories  have 
 
 BCO-DMO has its own erddap server that is continuously being updated. We added ERDDAP badges to make it easy for new users to grab the dataset in the format they need.
 
-<img src="../fig/erddap-bats.png" alt="erddap-bcodmo" style="zoom:30%;" />
+<img src="../fig/erddap-bats.png" alt="erddap-bcodmo" style="width:80%;" />
 
 
 ## Downloading a Dataset
 
-Previously we covered some ways you can [access data from the ERDDAP server](../08_erddap_catalog_search/index.html), but you can also download a whole dataset from the Dataset Metadata Page itself. There are buttons to easily download data in many file formats.
+Previously we covered some ways you can [access data from the ERDDAP server](../08_erddap_catalog_search/index.html), but you can also download a whole dataset from the Dataset Metadata Page itself. There are buttons to easily download data in many file formats. Dataset [AE1910 CTD Profiles](https://www.bco-dmo.org/dataset/774958) 
 
-[![AE1910_CTD bottle badges](../fig/AE1910_CTD_badges.png)](https://www.bco-dmo.org/dataset/774958)
+<img src="../fig/AE1910_CTD_badges.png" alt="AE1910_CTD bottle badges" style="width:70%;" />
+
+
 
 You can click the `CSV` button to download the data table in csv-format.  You can then open it in the editor of your choice. Below is what it looks like in Excel.
 
-![csv in excel](../fig/ctd_data_in_excel.png)
+<img src="../fig/ctd_data_in_excel.png" alt="csv in excel" style="width:70%;" />
 
 
 
@@ -60,15 +65,15 @@ For this example, we'll zoom in on the BATS CTD dataset that BCO-DMO is serving.
 
 This dataset has data from 1988 to 2016, so it is a very big dataset. Clicking on the "view table" button will try to pull up the data table, but it is very big and not easily to pull up and to download.
 
-<img src="../fig/erddap-bats-dataview.png" alt="erddap-bats-bcodmo" style="zoom:30%;" />
+<img src="../fig/erddap-bats-dataview.png" alt="erddap-bats-bcodmo" style="width:80%;" />
 
 **Subsetting a dataset in ERDDAP**
 
 An easier way to download the data is to subset it. Which means taking a slice of the dataset that you are interested in particulary.
 
-<img src="../fig/erddap-subsetdata.png" alt="erddap-subset" style="zoom:30%;" />
+<img src="../fig/erddap-subsetdata.png" alt="erddap-subset" style="width:80%;" />
 
-<img src="../fig/erddap-subsetting.png" alt="erddap-subsetting" style="zoom:30%;" />
+<img src="../fig/erddap-subsetting.png" alt="erddap-subsetting" style="width:80%;" />
 
 
 
