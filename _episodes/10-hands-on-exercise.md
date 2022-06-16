@@ -1,8 +1,8 @@
 ---
 title: "Practice provenance"
 teaching: 5
-exercises: 0
-questions:
+exercises: 45
+questions: 10
 - ""
 objectives:
 - "Practice provenance capture. Download a dataset, write provenance during analysis"
