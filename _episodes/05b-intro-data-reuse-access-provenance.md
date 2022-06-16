@@ -50,7 +50,7 @@ CTD stands for **conductivity, temperature, and depth**, and refers to a package
 <figure>
         <img src="https://oceanexplorer.noaa.gov/explorations/16arctic/logs/july24/media/coastguardctd_hires.jpg" alt="NOAA CTD rosette" width="400px"/>
 
-        <figcaption>Members of the U.S. Coast Guard prepare the CTD for launch. Image courtesy of Caitlin Bailey, GFOE, The Hidden Ocean 2016: Chukchi Borderlands. <img src="https://oceanexplorer.noaa.gov/explorations/16arctic/logs/july24/july24.html">Image source: NOAA</a></figcaption>
+        <figcaption>Members of the U.S. Coast Guard prepare the CTD for launch. Image courtesy of Caitlin Bailey, GFOE, The Hidden Ocean 2016: Chukchi Borderlands. <a href="https://oceanexplorer.noaa.gov/explorations/16arctic/logs/july24/july24.html">Image source: NOAA</a></figcaption>
 </figure>
 
 CTDs can be moored and collect data while they are stationary. They can also be lowered and raised in the water column to create profiles of the water column.
