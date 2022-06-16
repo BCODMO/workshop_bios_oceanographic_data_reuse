@@ -14,7 +14,7 @@ keypoints:
 
 In the previous lesson we touched on capturing provenanec and metadata while you clean your own dataset.  But now we are talking about what you can do during the Analysis phase of a data life cycle to implement FAIR practices.
 
-<img src="../fig/datalifecycle-analysis.png" alt="datalifecycle-analysis" style="zoom:30%;" />
+<img src="../fig/datalifecycle-analysis.png" alt="datalifecycle-analysis" style="width:40%;" />
 
 ## Provenance
 
