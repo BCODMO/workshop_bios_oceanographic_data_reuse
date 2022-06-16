@@ -16,7 +16,6 @@ In the previous lesson we touched on capturing provenanec and metadata while you
 
 <img src="../fig/datalifecycle-analysis.png" alt="datalifecycle-analysis" style="width:40%;" />
 
-Have you ever come back to plots or data you created and have no idea how you make them? At that point the provenance is gone.  You can't go back in time and collect some kinds of metadata. You have to keep good notes and records while you work with your data.
 
 ## What is Provenance?
 
@@ -33,13 +32,15 @@ Provenance was orignially a term applied to works of fine art as a record of its
         <figcaption>Water Lilies, Monet (1919), photo by Szilas in the Metropolitan Museum of Art (2008). <a href="https://commons.wikimedia.org/wiki/File:Water_Lilies_(Monet,_1919).JPG">Image source: Wikipedia</a></figcaption>
 </figure>
 
-> ### The paralels between "artwork" and "data" still hold up today.
+> ### The parallels between "artwork" and "data" still hold up today.
 >
 > From ["artworkarchive's "Provenance 101"](https://www.artworkarchive.com/blog/provenance-101-how-to-record-the-history-of-a-work-of-art):
 >
 > - _"An ideal provenance captures the ownership history of an artwork all the way back to the creation of the artist. But, many times there are gaps in the object's ownership record which can affect the work's value. "_
 > - _ "Don't make your artworks worthless by losing important information. "_
 {: .callout}
+
+Have you ever come back to plots or data you created and have no idea how you make them? At that point the provenance is gone.  You can't go back in time and collect some kinds of metadata. You have to keep good notes and records while you work with your data.
 
 ## What to keep in mind when writing a provenance record
 
