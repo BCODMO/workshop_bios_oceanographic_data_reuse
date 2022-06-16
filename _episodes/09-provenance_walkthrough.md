@@ -31,18 +31,6 @@ keypoints:
 > >  {: .challenge}
 
 
-## Exercise: Download a dataset, write provenance during analysis.
-
-> Step 1: Go to dataset  "Niskin bottle samples" [https://www.bco-dmo.org/dataset/3782](https://www.bco-dmo.org/dataset/3782)
-> 
-> - Click the `Subset Data` button at the top of the page.
-> - Download a subset of this dataset containing cruise 314, cast 005.
-> 
-> Solution: https://erddap.bco-dmo.org/erddap/tabledap/bcodmo_dataset_3782.csv?cruise_type%2Ccruise_type_text%2Ccruise_number%2Ccast_number%2Cdecy%2Ctime%2Clatitude%2Clongitude%2Cfilename%2CId%2Cdepth%2Cniskin_number%2Cp1%2Cp2%2Cp3%2Cp4%2Cp5%2Cp6%2Cp7%2Cp8%2Cp9%2Cp10%2Cp11%2Cp12%2Cp13%2Cp14%2Cp15%2CChl%2CPhae%2Cp18%2Cp19%2Cp20%2Cp21%2CTemp%2CCTD_S%2CSal1%2CSigTh%2CO2%2COxFix%2CAnom1%2CCO2%2CAlk%2CNO31%2CNO21%2CPO41%2CSi1%2CPOC%2CPON%2CTOC%2CTN%2CBact%2CPOP%2CTDP%2CSRP%2CBSi%2CLSi%2CPro%2CSyn%2CPiceu%2CNaneu%2CNO3%2CNO2%2CPO4%2CSi%2CPres&cruise_number=%220314%22&cast_number=%22005%22&decy%3E=2015&decy%3C2016
->
-> Step 2: Plot Depth vs Temperature
-
-
 ## Anyone can create metadata
 
 You don't need any special skills to write metadata and documentation to keep track of your provenance.  
