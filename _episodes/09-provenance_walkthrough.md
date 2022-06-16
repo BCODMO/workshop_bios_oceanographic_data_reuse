@@ -12,11 +12,10 @@ keypoints:
 
 ## Live Demo: Download a dataset, write provenance during analysis.
 
-Step 1: Subset dataset "Niskin bottle samples" [https://www.bco-dmo.org/dataset/3782](https://www.bco-dmo.org/dataset/3782)
-
-- Click the `Subset Data` button at the top of the page.
-- Download a subset of this dataset containing cruise 314, cast 005.
-
+> - Subset dataset "Niskin bottle samples" [https://www.bco-dmo.org/dataset/3782](https://www.bco-dmo.org/dataset/3782)
+> - Click the `Subset Data` button at the top of the page.
+> - Download a subset of this dataset containing cruise 314, cast 005.
+>
 > >  Solution :
 > > Open a text editor and write down every step you take.  Make sure to write the date you are handling the data.
 > > ![subsetting solution](../fig/subset_years.png)
