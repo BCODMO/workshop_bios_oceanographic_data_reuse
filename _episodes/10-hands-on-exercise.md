@@ -1,13 +1,13 @@
 ---
 title: "Practice provenance"
-teaching: 5
-exercises: 45
-questions: 10
+teaching: 10
+exercises: 40
+questions:
 - ""
 objectives:
-- "Practice provenance capture. Download a dataset, write provenance during analysis."
+- "Practice provenance capture. Download a dataset, write provenance during analysis"
 keypoints:
-- "Practice makes perfect."
+- "some keypoint"
 ---
 
 > ## Exercise: Download a dataset, write provenance during analysis.
@@ -29,5 +29,3 @@ keypoints:
 > >  Invert the depth axis since depth of 0 is the surface.
 > >
 > >  {: .challenge}
-
-
